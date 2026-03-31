@@ -39,6 +39,4 @@
 
 ---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daanixpl&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="daanixpl" />
-</p>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=daanixpl&layout=compact&theme=tokyonight" alt="daanixpl" />
