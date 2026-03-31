@@ -1,16 +1,18 @@
-
 <h1 align="center">Hi, I'm vDanix 👋</h1>
-<h3 align="center">ASP.NET Core Backend Developer</h3>
-
-<br/>
 
 <p align="center">
-  I build custom Web APIs, SaaS backends, and internal tools — focused on clean architecture, security, and scalability.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F5C518&center=true&vCenter=true&width=500&lines=ASP.NET+Core+Backend+Developer;Building+clean+and+scalable+APIs;SaaS+%7C+APIs+%7C+Clean+Architecture" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  I build custom Web APIs, SaaS backends, and internal tools —<br/>
+  focused on clean architecture, security, and scalability.
 </p>
 
 <br/>
 
 ---
+
 ### 🛠️ Tech Stack
 
 <p align="center">
@@ -20,7 +22,7 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
 </p>
 
 ---
@@ -34,9 +36,16 @@
 
 ### 📫 Contact
 
-- 🌐 Website: [vdanix.dev](https://vdanix.dev)
-- 💼 Fiverr: [fiverr.com/daanix](https://fiverr.com/daanix)
+<p align="center">
+  🌐 <a href="https://vdanix.dev">vdanix.dev</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  💼 <a href="https://fiverr.com/daanix">fiverr.com/daanix</a>
+</p>
 
 ---
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=daanixpl&layout=compact&theme=tokyonight" alt="daanixpl" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=daanixpl&color=blueviolet&style=for-the-badge" alt="profile views"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=daanixpl&layout=compact&theme=tokyonight" alt="daanixpl" />
+</p>
